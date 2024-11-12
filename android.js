@@ -1,1 +1,1 @@
-alert ('bem-vindo ao mundo Android');
+alert ('bem-vindo ao mundo Android!');
